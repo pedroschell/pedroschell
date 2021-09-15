@@ -13,3 +13,10 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
+
+ <div> 
+ 
+ 
+  ![Snake animation](https://github.com/pedroschell/pedroschell/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
