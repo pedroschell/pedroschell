@@ -14,6 +14,6 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
 <div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-schell" target="_blank"><img align="center" height="100" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-schell" target="_blank"><img align="center" height="100" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  
 </div>
