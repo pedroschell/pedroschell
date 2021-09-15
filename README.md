@@ -10,7 +10,7 @@
   <img align="center" alt="Pedro-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
 <br>
-## Contato:
+<h1> Contato: </h1>
 <div>
   <a href="https://www.linkedin.com/in/pedro-henrique-schell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
