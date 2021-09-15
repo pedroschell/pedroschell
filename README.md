@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroschell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroschell&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<h2> </h2> 
 <h2> Conhecimentos: </h2> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
@@ -19,4 +18,3 @@
 <div>
   <a href="https://www.linkedin.com/in/pedro-henrique-schell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<h2> </h2> 
