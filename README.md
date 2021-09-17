@@ -1,8 +1,8 @@
 <h1> Olá, me chamo Pedro Henrique Schell 🤙 </h1>
-<br>
 👾 Cursando Análise e Desenvolvimento de sistemas 
 <br>
 📕 Buscando cada vez mais conhecimento em Desenvolvimento Web
+<br>
 <br>
 <div>
   <a href="https://github.com/pedroschell">
