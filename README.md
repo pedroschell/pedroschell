@@ -1,6 +1,7 @@
 <h1> Olá, me chamo Pedro Henrique Schell </h1>
 👾 Cursando Análise e Desenvolvimento de sistemas 
 <br>
+<br>
 <div>
   <a href="https://github.com/pedroschell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroschell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
