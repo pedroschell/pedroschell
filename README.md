@@ -1,5 +1,5 @@
 <h1> Olá, me chamo Pedro Henrique Schell </h1>
-👾 Cursando Análise e Desenvolvimento de sistemas 
+👾 Análise e Desenvolvimento de sistemas 
 <br>
 <br>
 <h2> Conhecimentos: </h2> 
