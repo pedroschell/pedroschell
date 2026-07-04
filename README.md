@@ -27,8 +27,6 @@
 
 ---
 
-## 🚀 Atualmente
-
 - 🤖 Estudando Engenharia de IA aplicada ao desenvolvimento de software
 - ⚙️ Desenvolvendo automações, aplicações Web e APIs
 - 📱 Explorando desenvolvimento de produtos Web e Mobile
