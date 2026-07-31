@@ -27,8 +27,7 @@
 
 ---
 
-- 🤖 Estudando Engenharia de IA aplicada ao desenvolvimento de software
-- ⚙️ Desenvolvendo automações, aplicações Web e APIs
+- 🤖 Desenvolvendo automações e APIs
 - 📱 Explorando desenvolvimento de produtos Web e Mobile
 
 ---
