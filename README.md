@@ -3,6 +3,7 @@
 <p align="center">
 💻 Back-End Software Engineer<br>
 ⚙️ APIs • Databases • Automation • LLM-powered agents
+🇧🇷 Brazil
 </p>
 
 <p align="center">
