@@ -16,18 +16,30 @@
 ### Techs
 
 <p>
-<img height="50" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
-<img height="50" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
-<img height="50" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;
-<img height="50" alt="React" title="React and React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-<img height="50" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
-<img height="50" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
-<img height="50" alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;
-<img height="50" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;
-<img height="50" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">&nbsp;
-<img height="50" alt="SQL" title="SQL and PL/SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">&nbsp;
-<img height="50" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
-<img height="50" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="50" alt="Java" title="Java" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
+<img height="50" alt="Node.js" title="Node.js" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;
+<img height="50" alt="JavaScript" title="JavaScript"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
+<img height="50" alt="TypeScript" title="TypeScript"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
+<img height="50" alt="Python" title="Python" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
+<img height="50" alt="C" title="C" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;
+<img height="50" alt="React" title="React and React Native" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
+<img height="50" alt="HTML5" title="HTML5"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;
+<img height="50" alt="CSS3" title="CSS3
+  " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">&nbsp;
+<img height="50" alt="SQL" title="SQL and PL/SQL"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">&nbsp;
+<img height="50" alt="Docker" title="Docker"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
+<img height="50" alt="Git" title="Git"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </p>
 
 ##
